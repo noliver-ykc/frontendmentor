@@ -1,0 +1,34 @@
+body {
+  background-color: #99BCFC;
+}
+
+.container {
+  height: 100%;
+  width: 250px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+h1 {
+  font-size: 1em;
+  font-weight: bold;
+}
+p {
+  font-size: .75em;
+  font-weight: bold;
+  color: #B9B9B9;
+}
+
+.qr-container {
+  padding: 10px 10px 0px 10px;
+}
+.qr-code-img {
+  width: 230px;
+  border-radius: 10px;
+}
+
+.qr-text {
+  padding: 0px 10px 10px;
+  text-align: center;
+}
