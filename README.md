@@ -1,5 +1,5 @@
 # frontendmentor challenges
-Hello and welcome to my repo. 
+Hello and welcome! 
 This repo is filled with solutions for challenges made on the website front end mentor. 
 These projects were built from the ground up using only images to show what I should be making. 
 
