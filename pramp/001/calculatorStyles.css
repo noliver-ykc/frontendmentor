@@ -1,0 +1,53 @@
+.calculator {
+	background-color: #ADD8E6;
+	height: 300px;
+	width: 225px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+.row {
+	display: flex;
+}
+
+.btn {
+	height: 50px;
+	width: 50px; 
+	border-radius: 50%;
+	font-weight: bold;
+	margin: 3px;
+	opacity: 80%;
+}
+
+.btn:hover {
+	opacity: 100%;
+}
+.btn:focus {
+	opacity: 100%;
+}
+
+.numb {
+	background-color: white;
+	color: black;
+}
+
+.operand {
+	background-color: black;
+	color: white;
+}
+
+.userInput {
+	height: 50px;
+	width: inherit;
+	margin: 10px 0px;
+	background-color: rgb(189, 155, 221);
+	text-align: end;
+}
+
+.input {
+	margin: 0;
+}
+
+.current {
+	font-size:x-large;
+}
