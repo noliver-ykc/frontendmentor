@@ -1,3 +1,7 @@
+// A simple counter in React. Excercise URL ↓
+// https://www.greatfrontend.com/questions/user-interface/counter/react
+
+
 import React, { useState } from "react";
 import './styles.css';
 
